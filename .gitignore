@@ -1,0 +1,9 @@
+.env
+.env.*
+*.pem
+*.key
+.bucket-name
+.vscode/
+.idea/
+.DS_Store
+*.log
